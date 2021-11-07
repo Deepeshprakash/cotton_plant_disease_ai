@@ -1,6 +1,7 @@
 Flask==1.1.2
-gunicorn
+gunicorn==19.9.0
 Keras==2.3.1
 numpy==1.16.5
+tensorflow-cpu==2.2.0
 
 
